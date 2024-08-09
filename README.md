@@ -4,12 +4,12 @@ Seja bem-vindo ao meu cantinho no GitHub! Sou Sidy, um estudante de Ciência da 
 
 ## Um Pouco Sobre Mim
 - 🌱 **Estudante de Ciência da Computação:** Estou sempre com fome de conhecimento e sede de aprender.
-- 😍 **Apaixonado por Front End:** Atualmente, estou focando meus estudos na linguagem de programação JavaScript. Amo a simplicidade e a versatilidade dessa linguagem! Em conjunto estou aprendendo também HTML e CSS!!!
+- 🐍 **Apaixonado por Python:** Atualmente, estou focando meus estudos na linguagem de programação Python. Amo a simplicidade e a versatilidade dessa linguagem!
 - 💻 **Futuro Desenvolvedor:** Sonho em me tornar um desenvolvedor full-stack e contribuir para projetos inovadores que impactem o mundo.
 ## Minha Jornada
 Minha jornada na TI começou com um "Hello, World!" e desde então, tenho me aventurado por diversos campos da computação. Desde algoritmos complexos até desenvolvimento web, sempre encontro algo novo e excitante para explorar. 💡
 ## Habilidades e Tecnologias
-- **Linguagens de Programação:** JavaScript
+- **Linguagens de Programação:** Python
 - **Desenvolvimento Web:** HTML, CSS
 - **Banco de Dados:** PostgreSQL
 - **Ferramentas e Plataformas:** Git, GitHub, GitFlow, VS Code
