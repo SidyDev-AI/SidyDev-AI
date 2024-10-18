@@ -1,5 +1,7 @@
 # Olá, mundo! Eu sou o Sidy 🌍
 
+<img src="perfil.webp" width="150px">
+
 Borges Costta é um jovem de 26 anos que está cursando Ciência da Computação e é profundamente apaixonado por desenvolvimento de games. Desde cedo, seu interesse por jogos o levou a estudar não apenas como jogá-los, mas também como criá-los, o que despertou sua curiosidade pelo universo do desenvolvimento. José tem um espírito criativo e gosta de resolver problemas lógicos, qualidades que o fazem se destacar em projetos que envolvem design e programação de jogos. 🚀
 
 ## Habilidades Técnicas (Soft Skills)
