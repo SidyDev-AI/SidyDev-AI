@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou o Sidy 🌍
+# Olá, mundo! Eu sou o Sidy!!!
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="perfil.webp" width="150px" style="margin-right: 20px;">
