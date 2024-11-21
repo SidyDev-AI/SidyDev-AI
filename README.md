@@ -2,21 +2,19 @@
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="perfil.webp" width="150px" style="margin-right: 20px;">
-  <p>
-    Borges Costta é um jovem de 26 anos que está cursando Ciência da Computação e é profundamente apaixonado por desenvolvimento de games. Desde cedo, seu interesse por jogos o levou a estudar não apenas como jogá-los, mas também como criá-los, o que despertou sua curiosidade pelo universo do desenvolvimento. José tem um espírito criativo e gosta de resolver problemas lógicos, qualidades que o fazem se destacar em projetos que envolvem design e programação de jogos. 🚀
+  <p> 
+    Borges Costta, 26 anos, é um estudante de Ciência da Computação apaixonado por design, desenvolvimento front-end e criação de interfaces intuitivas e funcionais. Com uma base sólida em programação e um olhar        apurado para estética, Borges combina habilidades técnicas e criativas para oferecer experiências digitais de alta qualidade. Seu histórico em desenvolvimento de jogos o ensinou a trabalhar com lógica, 
+    resolução de problemas e design de interação, habilidades que agora aplica no mundo do front-end. 🚀 
   </p>
+  
+  ## Habilidades Técnicas
+  - 🎨 HTML, CSS e JavaScript: Borges domina as bases do desenvolvimento web, utilizando-as para criar páginas elegantes e responsivas. Ele se especializa em garantir que os designs sejam tanto visualmente atraentes    quanto funcionais.
+  - 🖌️ UI/UX Design: Apaixonado por design, Borges utiliza ferramentas como Figma para prototipar e criar designs centrados no usuário.
+  - 🆚 Git & GitHub: Experiente em controle de versão, ele organiza seus projetos e colabora eficientemente com outros desenvolvedores.
+  ## Hobbies e Interesses
+  - 🎧 Música: Em seu tempo livre, Borges relaxa tocando violão e ouvindo música, uma fonte constante de inspiração para seu lado criativo.
+  - 🎨 Criação Visual: Ele gosta de explorar novas ideias em design gráfico e ilustração, habilidades que complementam sua expertise em front-end.
+  - 💻 Exploração Tecnológica: Focado em inovação, Borges busca constantemente aprender novas ferramentas e tendências em tecnologia para se manter atualizado no mercado.
+  ## Motivações
+  Borges é movido pelo desejo de criar interfaces que conectem pessoas e tecnologia de maneira fluida e intuitiva. Ele se desafia a transformar ideias em experiências digitais impactantes, equilibrando design e       funcionalidade. Com ambição de se tornar um especialista em front-end, Borges sonha em contribuir para projetos inovadores e ajudar a construir um futuro digital mais inclusivo e interativo.
 </div>
-
-## Habilidades Técnicas (Soft Skills)
-- 🎮 Unity: Sua principal ferramenta para o desenvolvimento de jogos, onde ele já desenvolveu diversos projetos, incluindo protótipos e jogos mais completos.
-- 👨🏽‍💻 C#: Língua de programação que ele domina e usa frequentemente para codificar a lógica dos seus jogos em Unity.
-- 💻 HTML & CSS: José também tem familiaridade com desenvolvimento web, aplicando seus conhecimentos para criar interfaces de usuário intuitivas e atraentes.
-- 🆚 Git & GitHub: José é um defensor do controle de versão, usando Git e GitHub para gerenciar seus projetos e colaborar com outros desenvolvedores.
-
-## Hobbies e Interesses
-- ♟️ Xadrez: José encontra no xadrez uma maneira de desenvolver seu raciocínio lógico e estratégico, o que reflete em sua abordagem ao desenvolvimento de software.
-- 🎧 Música: Nos momentos de lazer, ele gosta de tocar violão e ouvir música, usando a música como uma forma de relaxar e se inspirar criativamente.
-- 🎮 Games: Além de jogar, ele é apaixonado por criar jogos, sempre buscando novas ideias e abordagens para desenvolver seus próprios projetos.
-
-## Motivações
-Borges é movido pela sua paixão por jogos e tecnologia. Ele gosta de desafios intelectuais e busca sempre aprimorar suas habilidades, tanto em programação quanto no desenvolvimento criativo de games. Sua ambição é se tornar um desenvolvedor de jogos de renome e criar experiências que possam entreter e desafiar jogadores ao redor do mundo. Ele também sonha em contribuir para projetos open-source e comunidades de desenvolvedores.
