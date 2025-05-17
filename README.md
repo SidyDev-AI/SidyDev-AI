@@ -49,3 +49,5 @@ Sou curioso por natureza e motivado por desafios criativos. No dia a dia, explor
 ---
 
 > “Crie com o coração, desenvolva com a mente e publique com propósito.” 🚀
+
+![Snake animation](https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg)
