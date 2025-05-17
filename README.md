@@ -38,6 +38,10 @@ Sou curioso por natureza e motivado por desafios criativos. No dia a dia, explor
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidyDev-AI&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
+
 ---
 
 ## 📫 Vamos nos conectar?
@@ -49,7 +53,3 @@ Sou curioso por natureza e motivado por desafios criativos. No dia a dia, explor
 ---
 
 > “Crie com o coração, desenvolva com a mente e publique com propósito.” 🚀
-
-<p align="center">
-  <img src="https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
