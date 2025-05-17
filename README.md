@@ -13,8 +13,8 @@
 Sou curioso por natureza e motivado por desafios criativos. No dia a dia, exploro a interseção entre design e tecnologia. No front-end, adoro transformar ideias em interfaces bonitas e funcionais. E nas horas vagas, mergulho no mundo da Unity para dar vida a universos digitais.
 
 💡 Atualmente estudando:
-- Desenvolvimento Web com foco em **HTML, CSS, JavaScript e PHP**
-- Desenvolvimento de jogos 2D no estilo RPG com **Unity + C#**
+- Desenvolvimento web com foco em **HTML, CSS, JavaScript e PHP**
+- Criação de jogos 2D estilo RPG com **Unity + C#**
 - Design centrado no usuário e prototipação com **Figma**
 
 ---
@@ -23,11 +23,11 @@ Sou curioso por natureza e motivado por desafios criativos. No dia a dia, explor
 
 | Área             | Ferramentas                      |
 |------------------|----------------------------------|
-| 💻 Front-End    | HTML, CSS, JavaScript, Bootstrap |
-| 🖌️ Prototipação | Figma                            |
-| 🕹️ Game Dev     | Unity, C#                        |
-| 🗃️ Back-End     | PHP, SQLite                      |
-| 🎯 Outros       | Git, GitHub, VS Code             |
+| 💻 Front-End     | HTML, CSS, JavaScript, Bootstrap |
+| 🎨 Prototipação  | Figma                            |
+| 🕹️ Game Dev      | Unity, C#                        |
+| 🗃️ Back-End      | PHP, SQLite                      |
+| 🧰 Outros        | Git, GitHub, VS Code             |
 
 ---
 
@@ -43,11 +43,13 @@ Sou curioso por natureza e motivado por desafios criativos. No dia a dia, explor
 ## 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🕹️ [Itch.io (se tiver jogos publicados)](https://seu-perfil.itch.io)
+- 🕹️ [Itch.io](https://seu-perfil.itch.io) <!-- Atualize com seu link se usar -->
 - ✉️ sidydev.io@gmail.com
 
 ---
 
 > “Crie com o coração, desenvolva com a mente e publique com propósito.” 🚀
 
-![Snake animation](https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
