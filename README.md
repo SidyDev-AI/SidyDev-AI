@@ -38,16 +38,12 @@ Sou curioso por natureza e motivado por desafios criativos. No dia a dia, explor
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidyDev-AI&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  ![Snake animation](https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg)
-</p>
-
 ---
 
 ## 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- 🕹️ [Itch.io](https://seu-perfil.itch.io) <!-- Atualize com seu link se usar -->
+- 🕹️ [Itch.io](https://seu-perfil.itch.io)
 - ✉️ sidydev.io@gmail.com
 
 ---
