@@ -39,7 +39,7 @@ Sou curioso por natureza e motivado por desafios criativos. No dia a dia, explor
 </p>
 
 <p align="center">
-  <img src="https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  ![Snake animation](https://github.com/SidyDev-AI/SidyDev-AI/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
